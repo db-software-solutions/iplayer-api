@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Türkiye",
+        "code": "TR",
         "url": "https://raw.githubusercontent.com/db-software-solutions/iplayer-api/refs/heads/main/tr.m3u"
     }
 ]
